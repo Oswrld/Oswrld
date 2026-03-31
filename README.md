@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!# 💫 About Me:
-Cybersecurity Practitioner<br>Web Developer<br>Tech Enthusiast<br>
+Cybersecurity Analyst<br>Web Developer<br>Tech Enthusiast<br>
 
 
 ## 🌐 Socials:
