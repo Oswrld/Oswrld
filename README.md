@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!# 💫 About Me:
+< 💫 About Me:
 Cybersecurity Analyst<br>Web Developer<br>Tech Enthusiast<br>
 
 
