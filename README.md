@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-< 💫 About Me:
+About Me:
 Cybersecurity Analyst<br>Web Developer<br>Tech Enthusiast<br>
 
 
@@ -18,6 +18,6 @@ Cybersecurity Analyst<br>Web Developer<br>Tech Enthusiast<br>
 [![](https://visitcount.itsvg.in/api?id=Oswrld&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->--
-**Oswrld/Oswrld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
